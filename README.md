@@ -1,4 +1,4 @@
-best-pratice
+best-pratices
 ============
 
 法狗狗技术员们的最佳工作实践
@@ -29,4 +29,4 @@ best-pratice
 ...
 ```
 
-## 欢迎 issue 或 fork & PR
+欢迎 issue 或 fork & PR
